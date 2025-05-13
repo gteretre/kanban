@@ -2,6 +2,13 @@
 
 Autorzy projektu: Michał Kowalski, Eryk Tucki
 
+![image](https://github.com/user-attachments/assets/7edce60a-7af7-4564-ab62-b82adb139402)
+
+![image](https://github.com/user-attachments/assets/690102d8-1f20-4069-9245-899573c1af3e)
+
+![image](https://github.com/user-attachments/assets/ff34f626-d086-48a2-a6c3-68b0b5000f2a)
+
+
 ## Technologie i konfiguracja
 
 - **Next.js** – Framework do budowy aplikacji React z obsługą SSR/SSG.
